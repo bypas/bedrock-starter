@@ -8,6 +8,9 @@ web/app/uploads/*
 !web/app/uploads/.gitkeep
 web/app/cache/*
 
+# Editors
+.vscode
+
 # WordPress
 web/wp
 web/.htaccess
